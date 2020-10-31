@@ -1,0 +1,97 @@
+https://nodejs.org/en/
+https://code.visualstudio.com/
+https://github.com/
+https://github.com/Aakashdeveloper
+https://www.mongodb.com/try/download/community
+
+Redies 
+postgres
+Docker 
+Ngnix 
+Aws 
+.............
+Dependenses 
+node_moduel
+packages
+node_lib 
+
+..............
+local packages
+
+Global packages
+
+...........
+/////////
+step to create package.json 
+//////////
+**Node must be installed in the system 
+> Navigate the folder using cmd/Terminal 
+> npm init 
+> answer these questions 
+> type yes 
+
+/////
+step to install local Dependenses
+///////
+>Navigate to the folder using cmd/Terminal
+>npm i <packages>/npm install <packages>/npm install <package> -- save 
+
+////
+install Global Dependenses
+//////
+//window 
+> run cmd as admin 
+> open terminal 
+> sudo npm i -g nodemon 
+
+>>>>>>>>>>>
+generate nodeapp
+>>>>>>>>>>>>>
+// one time
+for mac sudo  for window npm i @aakashdeveloper/create-node-app
+Everytime when you generate application 
+>generate
+> select node app
+> project name  myapp press enter 
+>cd myapp
+>npm start 
+> localhost:7600
+
+>>>>>>>>>>>>>>
+in build package 
+<<<<<<<<<<<<<
+>app.js 
+>create file app.js inside first-app
+>os operatingsystem 
+>os arch 
+>os hostname 
+>cmd run node app.js for output
+
+>>>>>>>>>>>>>>>
+server.js 
+<<<<<<<<<<<<<<<<
+> create function and request and response 
+>cmd node server.js 
+>go to package.json file wipe test add start insted and app.js
+>npm start
+>p.json dev then server.js but when you run server.js 
+>npm run dev server.js
+>in node if you want to server restart 
+>install npm i -g nodemon 
+>p.json just add node insted nodemon to restart server automatically
+
+<<<<<<<<<<<
+github
+<<<<<<<<<<
+git init
+git add README.md
+
+git branch -M main
+git remote add origin https://github.com/ahsin59/node-app.git
+git push -u origin main
+git commit -m "extra commit"
+///////
+after anytime you change use this three comands
+git add .
+git commit -m "extra commit"
+git push
